@@ -1,4 +1,4 @@
-# 
+# Atualizado JetBrains IntelliJ IDEA plugins para Mac OS | Elite JetBrains IntelliJ IDEA plugins para PC Windows. Com gerenciamento de stash e suporte Gitflow — otimizado para máximo desempenho em cada plataforma.
 
 
 
